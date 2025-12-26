@@ -142,3 +142,7 @@ go test -bench=.
 ## License
 
 MIT License
+
+## Author
+
+Paul Ngen
